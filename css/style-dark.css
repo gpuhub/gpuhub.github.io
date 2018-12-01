@@ -39,15 +39,6 @@ p{font-weight:300;margin-top:20px;margin-bottom:0;font-size:14px;line-height:23p
 .responsive-video iframe{border:0;}
 @media (max-width:768px){.mg-sm{margin-bottom:30px;}
 .mg-sm:last-child{margin-bottom:0;}
-.cx_main_sphere{width:350px !important;}
-.cx_main_brain_div{top:95px !important;}
-.cx_main_brain{width:70px !important;}
-#cx_main_sphere_height_helper{height: 245px !important;}
-#toroidal_wave{height:250px !important;}
-#contact_cx_synapses{width:450px !important;}
-#contact_left_top_image{width:100px !important;}
-#contact_left_top_image_container{left:10% !important;}
-/*.home-video {display: none !important;}*/
 }
 
 /*@media (max-width:384px){.mg-sm{margin-bottom:30px;}*/
@@ -260,7 +251,7 @@ footer.footer{background:#4cddf3;}
 .skill-bar ul li h5{margin:0;color:#FFF;line-height:35px;position:absolute;font-weight:700;}
 .skill-bar ul li .bar{padding-left:15px;height:100%;background:#4cddf3;width:0%;-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-ms-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;transition:all .5s ease-in-out;}
 .skill-bar ul li span{position:absolute;top:0;right:20px;color:#FFF;}
-.fullfilter{position:absolute;width:100%;height:100%;background:rgba(26, 24, 27, 0.96);z-index:100;}
+.fullfilter{position:absolute;width:100%;height:100%;background: rgba(6, 12, 16, 0.85);z-index:100;}
 .content-home-wrapper{z-index:3;position:relative;width:100%;height:100%;}
 .home-image{position:absolute;top:0;left:0;width:100%;height:100%;}
 .home-wrapper{display:block;position:relative;min-height:200px;height:100%;width:100%;}
@@ -342,7 +333,7 @@ footer.footer{background:#4cddf3;}
     display: block;
     width: 100%;
     height: 100%;left: 0;top: 0;
-    background: url('/images/back_static_cloud3.jpg');
+    background: url('/images/ocean1.jpg');
     background-size: 100% 100%;
     background-repeat:no-repeat; z-index: 85;}
 .bg-video video{
@@ -360,4 +351,18 @@ select::-moz-focus-inner,
 input[type="file"] > input[type="button"]::-moz-focus-inner {
     border: 0;
     outline : 0;
+}
+#ul-footer {
+    max-width: 60%;
+    margin: 10px auto;
+    padding: 0;
+}
+
+#ul-footer li img{
+    padding: 2px;
+    width: 55px;
+    height: 55px;
+}
+#ul-footer li a{
+    margin: 0;
 }
