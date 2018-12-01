@@ -39,13 +39,12 @@ p{font-weight:300;margin-top:20px;margin-bottom:0;font-size:14px;line-height:23p
 .responsive-video iframe{border:0;}
 @media (max-width:768px){.mg-sm{margin-bottom:30px;}
 .mg-sm:last-child{margin-bottom:0;}
-.fullfilter {height:100.7% !important;}
+.fullfilter {height:100.4% !important;}
 }
 
-/*@media (max-width:384px){.mg-sm{margin-bottom:30px;}*/
-    /*.mg-sm:last-child{margin-bottom:0;}*/
-    /*.home-video {display: none !important;}*/
-/*}*/
+@media (max-width:384px){
+    .fullfilter {height:100.7% !important;}
+}
 
 .clear{clear:right;}
 .spacer{display:block;width:100%;}
