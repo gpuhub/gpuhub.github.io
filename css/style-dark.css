@@ -42,6 +42,10 @@ p{font-weight:300;margin-top:20px;margin-bottom:0;font-size:14px;line-height:23p
 .fullfilter {height:100.4% !important;}
 }
 
+@media (max-width:384px){
+    .fullfilter {height:100.2% !important;}
+}
+
 .clear{clear:right;}
 .spacer{display:block;width:100%;}
 .spacer.big{height:100px;}
