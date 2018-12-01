@@ -39,7 +39,7 @@ p{font-weight:300;margin-top:20px;margin-bottom:0;font-size:14px;line-height:23p
 .responsive-video iframe{border:0;}
 @media (max-width:768px){.mg-sm{margin-bottom:30px;}
 .mg-sm:last-child{margin-bottom:0;}
-.fullfilter {height:100.3% !important;}
+.fullfilter {height:100.2% !important;}
 }
 
 @media (max-width:384px){
