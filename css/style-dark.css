@@ -358,6 +358,13 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
     padding: 0;
 }
 
+.p-center {
+    max-width: 80%;
+    margin: 45px auto;
+    padding: 0;
+    text-align: justify;
+}
+
 #ul-footer li img{
     padding: 2px;
     width: 55px;
