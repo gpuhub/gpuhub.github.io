@@ -68,8 +68,6 @@ Owner of the rig — also by leasing of computing power, having the ability 
 Consumers ML, MR — getting the desired result for less money. But most importantly, by increasing their sales due to the greater inclusion of machine learning in their activities. Increasing the percentage of machine learning in their products.
 GpuHub schema
 
-![GpuHub schema](https://github.com/gpuhub/gpuhub.github.io/raw/master/images/schema.png "GpuHub Schema")
-
 Have you thought about what is the most important factor expressing the growth of the wealth of society?
 
 It seems to us that if it were necessary to use only one word, this word would be automation.
