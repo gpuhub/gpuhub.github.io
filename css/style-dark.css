@@ -82,8 +82,10 @@ p{font-weight:300;margin-top:20px;margin-bottom:0;font-size:14px;line-height:23p
 .header-center p{display:none;}
 }
 .header-center p{font-size:22px;font-weight:300;}
-.header-center a{color:#FFF;margin-top:10%;width:45px;height:45px;line-height:42px;text-align:center;font-size:25px;display:inline-block;border:2px solid #FFF;background:rgba(0, 0, 0, 0);border-radius:100%;-moz-border-radius:100%;-webkit-border-radius:100%;outline:0;}
-.header-center a:hover{background:#25292c;border-color:#25292c;color:#4cddf3;outline:0;}
+/*.header-center a{color:#FFF;margin-top:10%;width:45px;height:45px;line-height:42px;text-align:center;font-size:25px;display:inline-block;border:2px solid #FFF;background:rgba(0, 0, 0, 0);border-radius:100%;-moz-border-radius:100%;-webkit-border-radius:100%;outline:0;}*/
+.header-center a{color:#FFF;margin-top:10%;height:45px;line-height:42px;text-align:center;font-size:25px;display:inline-block;
+    background:rgba(0, 0, 0, 0);border-radius:100%;-moz-border-radius:100%;-webkit-border-radius:100%;outline:0;}
+/*.header-center a:hover{background:#25292c;border-color:#25292c;color:#4cddf3;outline:0;}*/
 .header-center.fade-in{zoom:0;animation:fadeit 1s ease-out forwards;animation-iteration-count:1;-webkit-animation:fadeit 1s;-webkit-animation-iteration-count:1;-moz-animation:fadeit 1s;-moz-animation-iteration-count:1;-ms-animation:fadeit 1s;-ms-animation-iteration-count:1;}
 @keyframes fadeit{from{top:46%;filter:alpha(opacity=0);opacity:0;}
 to{top:50%;filter:alpha(opacity=100);opacity:1;}
